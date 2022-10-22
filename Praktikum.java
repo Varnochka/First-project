@@ -1,7 +1,12 @@
 public class Praktikum {
-2
-    public static void main(String[] args) {
-3
-        sayHello(); // Вызвали метод sayHello
-4
+public static void main(String[] args) {
+      sayHello(); // Вызвали метод sayHello
     }
+
+public static void main(String[] args) {
+String name = "Маша";
+System.out.println("Привет, " + name + "!");
+}
+
+
+
